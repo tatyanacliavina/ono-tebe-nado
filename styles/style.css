@@ -7,7 +7,7 @@ body {
   grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   max-width: 100%;
-  height: 109px;
+  min-height: 109px;
   margin: 92px 49px 0 0;
   padding-left: 50px;
 }
@@ -15,7 +15,7 @@ body {
 .header_menu {
   font-size: 18px;
   max-width: 450px;
-  height: 23px;
+  min-height: 23px;
 }
 
 .header__links-list {
@@ -55,7 +55,6 @@ body {
   font-weight: 400;
   line-height: 24.3px;
   width: 240px;
-  height: 97px;
   font-style: normal;
  }
 
@@ -69,13 +68,13 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 757px;
+  min-height: 757px;
   z-index: -2;
 }
 
 .overlay {
   width: 100%;
-	height: 100%;
+  height: 100%;
 	position: absolute;
 	inset: 0;
 	background: #000;
@@ -113,16 +112,15 @@ body {
 .text-right {
   text-align: right;
   margin-left: 217px;
+  margin-bottom: 79px;
 }
 
 .cover__description {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  position: absolute;
   bottom: 0;
   width: 100%;
-  margin-bottom: 50px;
 }
 
 .cover__description-text {
@@ -250,7 +248,6 @@ body {
   grid-template-columns: 430px auto;
   grid-column-gap: 23px;
   max-width: 100%;
-  height: 487px;
   margin: 183px 50px 0 50px ;
   align-items: flex-start;
 }
@@ -303,7 +300,6 @@ body {
 
 .footer__menu {
   width: 149px;
-  height: 64px;
   font-size: 18px;
   font-weight: 400;
   justify-self: center;
