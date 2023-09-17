@@ -144,7 +144,7 @@ body {
   font-weight: 400;
   text-transform: uppercase;
   background: transparent;
-  margin-right: 50px; 
+  margin-right: 50px;
   margin-left: 78px;
 }
 
@@ -212,9 +212,9 @@ body {
   font-size: 20px;
   font-weight: 400;
   line-height: 1.2;
-  margin-bottom: 50px; 
+  margin-bottom: 50px;
   margin-left: 40px;
-  margin-right: 40px; 
+  margin-right: 40px;
 }
 
 .card__title {
@@ -224,7 +224,7 @@ body {
   font-weight: 700;
   line-height: 1.2;
   text-decoration-line: underline;
-  text-transform: uppercase;  
+  text-transform: uppercase;
   margin-top: 50px;
   margin-left: 40px;
   margin-right: 40px;
@@ -262,7 +262,6 @@ body {
   height: 240px;
   background-color: #000;
   border-radius: 50%;
-  
 }
 
 .about__logo-image {
@@ -271,7 +270,7 @@ body {
   margin: auto;
 }
 
-.about__column_two{
+.about__column_two {
   margin-top: 100px;
 }
 
