@@ -2,12 +2,12 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
   min-width: 1100px;
-  margin: 0;
-  padding: 0;
   font-family: Raleway, sans-serif;
 }
 
