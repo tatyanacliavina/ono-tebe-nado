@@ -194,10 +194,14 @@ body {
 
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .card_type_book {
   background-image: url(../images/card-lot-02.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .card_type_picture {
@@ -308,7 +312,6 @@ body {
 
 .footer__menu-list {
   list-style: none;
-  
 }
 
 .footer__social-list-item {
